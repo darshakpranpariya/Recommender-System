@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run my_app/Content_Based_Recommendation.py
