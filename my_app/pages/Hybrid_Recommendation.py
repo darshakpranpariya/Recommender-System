@@ -17,7 +17,7 @@ def fetch_poster(movie_name):
     return full_path
 
 def get_recommendation(text):
-    openai.api_key = "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"
+    openai.api_key = "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"
 
     response = openai.Completion.create(
     model="text-davinci-002",
