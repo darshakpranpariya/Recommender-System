@@ -16,7 +16,7 @@ Steps we have followed,
 3) Next, we need to split the data into a training set and a test set. The training set will be used to train our machine learning algorithm, while the testset will be used to evaluate the accuracy of our algorithm.
 4) Once the data is prepared, we can start training our machine learning algorithm. We will use the cosine similarity matrix to find similar movies.
 5) The sixth step is to improve the system by adding more movies to the dataset and using different methods to recommend movies to the user.
-6) Finally, we haveusedthe gpt3 algorithm to recommend movies to users.
+6) Finally, we haveusedthe gpt3 algorithm to recommend movies to a users.
 7) The seventh and final step is to deploy the system and make it available to the users.
 
 ## Results
