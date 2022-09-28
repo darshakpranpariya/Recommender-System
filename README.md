@@ -18,3 +18,20 @@ Steps we have followed,
 5) The sixth step is to improve the system by adding more movies to the dataset and using different methods to recommend movies to the user.
 6) Finally, we haveusedthe gpt3 algorithm to recommend movies to users.
 7) The seventh and final step is to deploy the system and make it available to the users.
+
+## Results
+
+![image](https://user-images.githubusercontent.com/34344691/192686331-ca545aee-d722-4ab0-ae49-c6e6bec3b52d.png)
+
+![image](https://user-images.githubusercontent.com/34344691/192686244-9b670078-09f4-46f7-9543-cb80bf277499.png)
+
+### Few Screenshots of the system,
+
+![image](https://user-images.githubusercontent.com/34344691/192686500-3c65b7e5-1f27-4f6e-b3ee-dbff8bafa99e.png)
+
+![image](https://user-images.githubusercontent.com/34344691/192686542-04d3607a-7555-4123-8f72-da2bdfb1f581.png)
+
+![image](https://user-images.githubusercontent.com/34344691/192686569-25d6a384-2000-4905-9e4b-64ae7c0e7570.png)
+
+![image](https://user-images.githubusercontent.com/34344691/192686599-ddef2bf7-e50b-4047-ad84-116be7c2cf82.png)
+
